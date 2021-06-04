@@ -16,7 +16,7 @@ GIVEN a webpage meets accessibility standards
 ```
 
 ### Mock Up 
-Assets\01-html-css-git-homework-demo.png 
+<img src= "./Assets\01-html-css-git-homework-demo.png" >
 
 ### Grading Requirements
 
