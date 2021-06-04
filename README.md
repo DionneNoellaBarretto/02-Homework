@@ -19,9 +19,9 @@ This homework is graded based on the following criteria:
 
 Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
- ✅ Application's links all function correctly.
- ✅ Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
- ✅ Application's CSS file is properly commented.
+✅ Application's links all function correctly.
+✅ Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+✅ Application's CSS file is properly commented.
 Deployment: 32%
 ✅ Application deployed at live URL.
 ✅ Application loads with no errors.
