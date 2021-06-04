@@ -1,3 +1,4 @@
+/* Universal Selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,10 +7,12 @@
     color: #ffffff;
 
 }
-
+/* isolated id to change the color of seo in 'Horiseon' h1 header */
 #seo {
     color: #d9dcd6;
 }
+
+/* Element Selectors */
 
 header {
     padding: 20px;
@@ -50,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* Class Selectors */
+/* main body background image up top */
 .background-image {
     height: 800px;
     width: 100%;
@@ -58,23 +63,37 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* bottom left section's image's loction formatting */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
+.left-panel img {
+    max-height: 200px;
+}
 
+/* bottom left section text formatting */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+.left-panel {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+.left-panel h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
+/* bottom right section panel formatting */
 .right-panel {
     margin-right: 20px;
     padding: 20px;
@@ -84,38 +103,21 @@ p {
     height: 100%;
     background-color: #2589bd;
 }
-
+/* bottom right section image + content formatting */
 .benefits {
     margin-bottom: 32px;
 }
-
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.left-panel {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-}
-
-.left-panel img {
-    max-height: 200px;
-}
-
-.left-panel h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* the hidden footer section */
 footer {
     padding: 30px;
     clear: both;
@@ -123,7 +125,6 @@ footer {
     text-align: center;
     display:none
 }
-
 footer h2 {
     font-size: 20px;
 }
