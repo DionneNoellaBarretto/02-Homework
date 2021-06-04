@@ -52,7 +52,8 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 --------------------------------
 # DNB's SOLUTION:
 ```
-📄 Github Page https://dionnenoellabarretto.github.io/02-Homework/Develop/
-🗂️ Github Repository: https://github.com/DionneNoellaBarretto/02-Homework/tree/main/Develop
+📄 [Github Page](https://dionnenoellabarretto.github.io/02-Homework/Develop/)
+
+🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/02-Homework/tree/main/Develop)
 ```
 --------------------------------
